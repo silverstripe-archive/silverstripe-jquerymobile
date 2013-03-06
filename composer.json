@@ -1,0 +1,19 @@
+{
+	"name": "silverstripe-themes/jquerymobile",
+	"description": "jQuery Mobile Theme for SilverStripe Framework",
+	"type": "silverstripe-theme",
+	"keywords": ["silverstripe", "mobile"],
+	"authors": [
+	{
+		"name": "Sean Harvey",
+		"email": "sean@silverstripe.com"
+	},
+	{
+		"name": "Will Rossiter",
+		"email": "will@fullscreen.io"
+	}
+	],
+	"require": {
+		"silverstripe/mobile": "*"
+	}
+}
